@@ -50,31 +50,13 @@ Features a kawaii pink mochi character, floating platforms, sparkles, dust poofs
 ### 1. Open the Game
 Open `index.html` in any browser:
 
-mochi-hop/
-├── index.html
-├── game.js
-└── README.md
 
-yaml
-Copy code
 
 ### 2. Controls
 - **A / ←** – Move left  
 - **D / →** – Move right  
 - **Space / ↑** – Jump  
 
----
-
-## Folder Structure
-
-mochi-hop/
-│
-├── index.html # Main page and gradient background
-├── game.js # Kaboom.js game logic + effects
-└── README.md # Project documentation
-
-yaml
-Copy code
 
 ---
 
