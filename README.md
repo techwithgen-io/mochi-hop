@@ -1,85 +1,93 @@
-Mochi Hop – Pastel Platformer Game 🍡✨
+# Mochi Hop – Pastel Platformer Game 🍡✨
 
-This project is a cute 2D platformer built with Kaboom.js, featuring a pastel aesthetic, kawaii character, floating platforms, sparkles, and soft visual effects.
+A cute 2D pastel platformer built with Kaboom.js.  
+Features a kawaii pink mochi character, floating platforms, sparkles, dust poofs, and soft visual effects.
 
-Project Overview
-Game (/mochi-hop)
+---
 
-Uses Kaboom.js for physics, collisions, and rendering
+## Project Overview
 
-Player can move left/right and jump across floating platforms
+### Game (`/mochi-hop`)
+- Uses **Kaboom.js** for physics, collisions, and rendering  
+- Player can move left/right and jump across floating platforms  
+- Cute visual effects (sparkles on jump, dust poofs on landing)  
+- Minimalistic shapes — no external sprites required  
+- Fully playable in any modern web browser
 
-Cute effects including sparkles (jump) and dust poofs (landing)
+---
 
-Simple shapes only — no external sprites needed
+## Features
 
-Fully playable in a web browser
+- **Player Movement**  
+  Move left/right using **A/D** or **←/→**
 
-Features
+- **Jumping**  
+  Press **Space** or **↑** to jump
 
-Player Movement
-Move left/right with A/D or ←/→ keys
+- **Pastel Platforms**  
+  Soft peach-colored floating blocks + green ground platform
 
-Jumping
-Jump using Space or ↑
+- **Kawaii Character**  
+  A pink mochi with a tiny (•ᴗ•) face
 
-Pastel Platforms
-Soft peach-colored floating blocks and a grassy ground
+- **Visual FX**  
+  Sparkles (jump), dust poofs (landing), floating clouds
 
-Kawaii Character
-Pink mochi with a little (•ᴗ•) face
+- **Browser-Based**  
+  Runs with HTML/CSS/JS — no installation required
 
-Visual Effects
-Sparkles on jump, dust poofs on landing, floating clouds
+---
 
-Browser-Based
-Runs entirely in HTML/CSS/JS — no installation required
+## Requirements
 
-Requirements
+- Any modern browser (Chrome, Edge, Firefox, Safari)  
+- Internet connection to load Kaboom.js via CDN
 
-Any modern browser (Chrome, Edge, Firefox, Safari)
+---
 
-Internet connection (to load Kaboom.js CDN)
+## ▶ How to Run
 
-▶ How to Run
-1. Open the Game
-
-Simply open index.html in a web browser:
+### 1. Open the Game
+Open `index.html` in any browser:
 
 mochi-hop/
 ├── index.html
 ├── game.js
 └── README.md
 
+yaml
+Copy code
 
-Or play it via GitHub Pages (if enabled for your repo).
+### 2. Controls
+- **A / ←** – Move left  
+- **D / →** – Move right  
+- **Space / ↑** – Jump  
 
-2. Controls
+---
 
-A / ← – Move Left
+## Folder Structure
 
-D / → – Move Right
-
-Space / ↑ – Jump
-
-Folder Structure
 mochi-hop/
 │
-├── index.html     # Main page + gradient background
-├── game.js        # Kaboom.js game logic, movement, effects
-└── README.md      # Project documentation
+├── index.html # Main page and gradient background
+├── game.js # Kaboom.js game logic + effects
+└── README.md # Project documentation
 
-Technologies Used
+yaml
+Copy code
 
-HTML5 – Page structure + canvas container
+---
 
-CSS – Gradient background + layout
+## Technologies Used
 
-JavaScript – Game logic
+- **HTML5** – Page + canvas structure  
+- **CSS** – Simple styling + aesthetic gradient  
+- **JavaScript** – Game logic  
+- **Kaboom.js** – Game engine (via CDN)
 
-Kaboom.js – Game engine (via CDN)
+---
 
-License
+## License
 
-This is a simple educational/portfolio project.
-Feel free to modify, expand, or use as inspiration. 💖
+This is a fun educational/portfolio project.  
+Feel free to modify or build upon it! 💖
