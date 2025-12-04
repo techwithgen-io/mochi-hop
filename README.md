@@ -45,7 +45,7 @@ Features a kawaii pink mochi character, floating platforms, sparkles, dust poofs
 
 ---
 
-## ▶ How to Run
+## How to Run
 
 ### 1. Open the Game
 Open `index.html` in any browser:
