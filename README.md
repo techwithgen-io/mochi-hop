@@ -1,75 +1,67 @@
-# Mochi Hop – Pastel Platformer Game 🍡✨
+# 🍡 Mochi Hop – Pastel Platformer Game ✨
 
-A cute 2D pastel platformer built with Kaboom.js.  
-Features a kawaii pink mochi character, floating platforms, sparkles, dust poofs, and soft visual effects.
+**Mochi Hop** is a cute, cozy 2D pastel platformer where you control a tiny pink mochi hopping across floating platforms. Jump, sparkle, and explore a dreamy pastel world built entirely in the browser 💖
 
----
-
-## Project Overview
-
-### Game (`/mochi-hop`)
-- Uses **Kaboom.js** for physics, collisions, and rendering  
-- Player can move left/right and jump across floating platforms  
-- Cute visual effects (sparkles on jump, dust poofs on landing)  
-- Minimalistic shapes — no external sprites required  
-- Fully playable in any modern web browser
+Built with **JavaScript + Kaboom.js** as a creative coding and portfolio project.
 
 ---
 
-## Features
+## 🔗 Play Instantly (No Download Needed)
 
-- **Player Movement**  
-  Move left/right using **A/D** or **←/→**
+👉 **Play here:**  
+https://techwithgen-io.github.io/mochi-hop/
 
-- **Jumping**  
-  Press **Space** or **↑** to jump
-
-- **Pastel Platforms**  
-  Soft peach-colored floating blocks + green ground platform
-
-- **Kawaii Character**  
-  A pink mochi with a tiny (•ᴗ•) face
-
-- **Visual FX**  
-  Sparkles (jump), dust poofs (landing), floating clouds
-
-- **Browser-Based**  
-  Runs with HTML/CSS/JS — no installation required
+✅ No installation  
+✅ No downloads  
+✅ Just click and play in your browser
 
 ---
 
-## Requirements
+## 🎮 Gameplay
 
-- Any modern browser (Chrome, Edge, Firefox, Safari)  
-- Internet connection to load Kaboom.js via CDN
-
----
-
-## How to Run
-
-### 1. Open the Game
-Open `index.html` in any browser:
-
-
-
-### 2. Controls
-- **A / ←** – Move left  
-- **D / →** – Move right  
-- **Space / ↑** – Jump  
-
+- Control a **kawaii pink mochi character**
+- Jump across **floating pastel platforms**
+- Land with **dust poofs** and jump with **sparkly effects**
+- Soft, cozy visuals with clouds and pastel tones
+- Simple, relaxing platformer mechanics
 
 ---
 
-## Technologies Used
+## 🕹️ Controls
+
+| Key | Action |
+|-----|--------|
+| A or ← | Move Left |
+| D or → | Move Right |
+| Space or ↑ | Jump |
+
+---
+
+## ✨ Features
+
+- Pastel, cozy aesthetic  
+- Smooth platformer physics  
+- Sparkles on jump & dust poofs on landing  
+- Floating cloud visuals  
+- Minimalistic shapes (no external sprites)  
+- Fully browser-based  
+- Hosted with **GitHub Pages**
+
+---
+
+## 🛠️ Built With
 
 - **HTML5** – Page + canvas structure  
-- **CSS** – Simple styling + aesthetic gradient  
-- **JavaScript** – Game logic  
-- **Kaboom.js** – Game engine (via CDN)
+- **CSS** – Simple styling & gradients  
+- **JavaScript (ES Modules)** – Game logic  
+- **Kaboom.js** – Game engine (via CDN)  
+- **GitHub Pages** – Live hosting  
 
 ---
 
-## License
+## 🧑‍💻 For Developers (Optional)
 
-This is a fun educational/portfolio project.  
-Feel free to modify or build upon it! 💖
+If you’d like to explore or modify the source code locally:
+
+```bash
+git clone https://github.com/techwithgen-io/mochi-hop.git
