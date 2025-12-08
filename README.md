@@ -6,7 +6,7 @@ Built with **JavaScript + Kaboom.js** as a creative coding and portfolio project
 
 ---
 
-## 🔗 Play Instantly (No Download Needed)
+## 🔗 Play Instantly 
 
 👉 **Play here:**  
 https://techwithgen-io.github.io/mochi-hop/
@@ -59,7 +59,7 @@ https://techwithgen-io.github.io/mochi-hop/
 
 ---
 
-## 🧑‍💻 For Developers (Optional)
+## 🧑‍💻 For Developers 
 
 If you’d like to explore or modify the source code locally:
 
