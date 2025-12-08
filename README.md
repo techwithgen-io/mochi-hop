@@ -1,4 +1,4 @@
-# 🍡 Mochi Hop – Pastel Platformer Game ✨
+# 🍡 Mochi Hop – Pastel Platformer Game 
 
 **Mochi Hop** is a cute, cozy 2D pastel platformer where you control a tiny pink mochi hopping across floating platforms. Jump, sparkle, and explore a dreamy pastel world built entirely in the browser 💖
 
